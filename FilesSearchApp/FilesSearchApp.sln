@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesSearchApp", "FilesSearchApp\FilesSearchApp.csproj", "{58CB75D3-70CD-46E2-999A-773E20D28FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearch", "FileSearch\FileSearch.csproj", "{C1C9FF8E-762A-4F85-AE62-26FCF7C1BD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearchUI", "FileSearchUI\FileSearchUI.csproj", "{000F3EFA-8C90-4823-9F47-4D21B8C77078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CB75D3-70CD-46E2-999A-773E20D28FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB75D3-70CD-46E2-999A-773E20D28FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB75D3-70CD-46E2-999A-773E20D28FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB75D3-70CD-46E2-999A-773E20D28FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C9FF8E-762A-4F85-AE62-26FCF7C1BD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C9FF8E-762A-4F85-AE62-26FCF7C1BD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C9FF8E-762A-4F85-AE62-26FCF7C1BD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C9FF8E-762A-4F85-AE62-26FCF7C1BD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000F3EFA-8C90-4823-9F47-4D21B8C77078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000F3EFA-8C90-4823-9F47-4D21B8C77078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000F3EFA-8C90-4823-9F47-4D21B8C77078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000F3EFA-8C90-4823-9F47-4D21B8C77078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
